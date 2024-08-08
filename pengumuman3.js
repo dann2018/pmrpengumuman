@@ -1,6 +1,6 @@
 // Daftar nama yang lebih lengkap dengan status
 const names = [
-    { name: "Joko Pratama", status: "Lolos" },
+    { name: "Joko santoso", status: "Lolos" },
     { name: "Joko Satoru", status: "Gagal, TETAP SEMANGAT jangan berputus asa" },
     { name: "Charlie", status: "Lolos" },
     { name: "Diana", status: "Lolos" },
